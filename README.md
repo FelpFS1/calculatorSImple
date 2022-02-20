@@ -12,7 +12,7 @@
 - I made this project just to put into practice what I'm learning in javaScript and exercise a little HTML and CSS.
 - It's a very simple project, but in it I made a calculator where you can add, subtract, multiply and also divide.
 
-## Pré-Requisitos - Prerequisites
+## Pré-Requisitos - Requisites
 
 ### pt-BR
 
